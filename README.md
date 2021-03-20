@@ -14,4 +14,6 @@ There were challenges:
 
 I also struggled with unpredictable behavior. Possibly the settings on the compiler/uploader were not perfectly matched to the chip. However after a lot of trial an error I was pretty happy with the results.
 
+Video at: https://youtu.be/FMFzVifCDEg
+
 ![PXL_20210320_171840810 MP (1)](https://user-images.githubusercontent.com/25584653/111881534-b6d73400-89a8-11eb-9afd-a40e3d7c09f2.jpg)
